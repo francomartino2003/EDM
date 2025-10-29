@@ -1,0 +1,38 @@
+# Data folders
+Data/
+Data\ Analysis/Data\ Viz/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (optional - uncomment if you don't want to commit models)
+# Stage\ Segmentation/results/**/*.pth
+# Stage\ Segmentation/models/
+
+# Experiment results (optional - uncomment if you don't want to commit results)
+# Stage\ Segmentation/results/
+
+# Logs
+*.log
+
